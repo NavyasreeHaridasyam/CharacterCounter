@@ -1,0 +1,11 @@
+.user-details {
+  font-family: Roboto;
+  color: #272c47;
+  font-weight: bold;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.list-item {
+  list-style-type: none;
+}
